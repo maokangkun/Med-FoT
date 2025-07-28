@@ -1,0 +1,8 @@
+rich
+httpx
+ollama
+openai
+pillow
+fastapi
+pydantic
+python-dotenv
