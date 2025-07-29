@@ -1,0 +1,822 @@
+[
+    {
+        "pid": 20890008,
+        "input": {
+            "candidate_diseases": [
+                "appendicitis",
+                "cholecystitis",
+                "diverticulitis",
+                "pancreatitis"
+            ],
+            "present_illness": "___ with no significant PMH presenting with acute onset of RLQ pain x 2 days. Patient reports feeling lower quadrant discomfort on ___ morning but that it worsened significantly at night, waking her up from sleep. She endorses anorexia without nausea  or vomiting. Denies fevers or chills. Has some right-sided flank pain without dysuria or hematuria. Denies previous URI symptoms.  She no longer gets her period as she has an IUD in place. Denies a history of bloody stools, diarrhea, sick contacts or recent exposures. Travels within the ___ for work and pleasure.   Past Medical History: PMH: none  PSH: none  ___: none    Social History: ___ Family History: Fam Hx: no history of Crohns or UC. Grandfather with ___ types of cancers including possible leukemia otherwise no hx of malignancy",
+            "physical_examination": "Temp: 97.6 HR: 46 BP: 106/65 RR: 18 100% Ra Gen: NAD HEENT: non icteric, atraumatic CV: RRR no m,r,g RESP: CTABL Abd: soft, non tender, non distended, incisions c/d/i Ext: wwpx4, palpable distal pulses",
+            "laboratory_tests": {
+                "HCG, Urine, Qualitative": "NEGATIVE.  FOR QUANTITATION OF POSITIVES, SEND SERUM FOR HCG.",
+                "Urobilinogen": "NEG.",
+                "Urine Color": "Straw.",
+                "Urine Appearance": "Clear.",
+                "Protein": "NEG.",
+                "pH": "5.5 units",
+                "Nitrite": "NEG.",
+                "Specific Gravity": "1.016  ",
+                "Ketone": "TR.",
+                "Glucose": "82.0 mg/dL",
+                "Blood": "NEG.",
+                "Bilirubin": "NEG.",
+                "Length of Urine Collection": "RANDOM.",
+                "Leukocytes": "NEG.",
+                "Bilirubin, Total": "0.4 mg/dL",
+                "Albumin": "5.0 g/dL",
+                "Alkaline Phosphatase": "67.0 IU/L",
+                "Anion Gap": "14.0 mEq/L",
+                "Asparate Aminotransferase (AST)": "28.0 IU/L",
+                "Bicarbonate": "28.0 mEq/L",
+                "Chloride": "99.0 mEq/L",
+                "Urea Nitrogen": "11.0 mg/dL",
+                "Estimated GFR (MDRD equation)": "Using this patients age, gender, and serum creatinine value of 0.7,.  Estimated GFR = >75 if non African-American (mL/min/1.73 m2).  Estimated GFR = >75 if African-American (mL/min/1.73 m2).  For comparison, mean GFR for age group 30-39 is 107 (mL/min/1.73 m2).  GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure.",
+                "Lipase": "132.0 IU/L",
+                "Potassium": "3.9 mEq/L",
+                "Sodium": "137.0 mEq/L",
+                "Alanine Aminotransferase (ALT)": "19.0 IU/L",
+                "Creatinine": "0.7 mg/dL",
+                "Light Green Top Hold": "HOLD.",
+                "Platelet Count": "226.0 K/uL",
+                "PT": "11.1 sec",
+                "Basophils": "0.3 %",
+                "Eosinophils": "1.7 %",
+                "Hematocrit": "37.5 %",
+                "Hemoglobin": "13.1 g/dL",
+                "Lymphocytes": "22.5 %",
+                "MCH": "30.0 pg",
+                "MCHC": "34.8 %",
+                "MCV": "86.0 fL",
+                "Monocytes": "5.9 %",
+                "Neutrophils": "69.5 %",
+                "RDW": "12.7 %",
+                "Red Blood Cells": "4.35 m/uL",
+                "White Blood Cells": "9.9 K/uL",
+                "INR(PT)": "1.0",
+                "PTT": "33.6 sec",
+                "Lactate": "1.0 mmol/L",
+                "Specimen Type": "VEN."
+            },
+            "radiology": "Note ID: 10040626-RR-9\nModality: CT\nRegion: Abdomen\nExam Name: CT ABD & PELVIS WITH CONTRAST\nReport: EXAMINATION:\nCT ABD AND PELVIS WITH CONTRAST:\n\nTECHNIQUE:\nMDCT images were obtained from the lung bases to the pubic\nsymphysis after administration of 130cc intravenous contrast.  Axial images\nwere interpreted in conjunction with coronal and sagittal reformats.\n\nDLP:\n404 mGy-cm\nCTDIvol:  8 mGy\n\nFINDINGS:\n\n\nCHEST:\nThe visualized lung bases are clear.  There is no pleural or pericardial\neffusion.\n\nABDOMEN:\nThe liver and gallbladder are normal.  The portal and hepatic veins are\npatent. The pancreas and spleen are unremarkable.  The adrenal glands are\nnormal bilaterally.  The kidneys enhance symmetrically with no hydronephrosis.\n\nThe stomach and small bowel are normal in caliber. Within the right lower\nquadrant, there is a dilated, hyperdense structure rising from the base of the\ncecum, which measures up to 9 mm, likely representing the appendix\ndemonstrating mucosal hyperenhancment with respect to adjacent bowel.  What is\nmost striking is hyperenhancement and wall thickening rather than fluid\ncontent.  Inflammatory changes are noted at the base of the cecum, and\nadjacent to the whole wall of the appendix, and probably particularly at the\ntip, which has an indistinct appearance.\n\nWithin the mesentery adjacent to the ascending colon, there are two strikingly\nenlarged and briskly enhancing lymph nodes measuring 1.4 and 1.8 cm, the\nformer with low-density material centrally, and both demonstrate surrounding\ninflammatory changes, including marked fat stranding about the node with\nsuspected necrotic or suppurative changes.\n\nThe ascending, transverse, and descending colon are unremarkable. There is no\nmesenteric free air.\n\nPELVIS:\nThe urinary bladder, and adnexa are unremarkable. The uterus contains\nan intrauterine device, and standard position. Small amount of simple free\nfluid is seen in the pelvis, likely physiologic.\n\nVESSELS:\nThe aorta is normal in caliber and its major branches are patent.\n\nOSSEOUS STRUCTURES:\nNo focal lytic or sclerotic lesion concerning for\nmalignancy.\n\nNOTIFICATION:\nFindings were discussed with Dr. ___ by Dr. ___\ntelephone at 23:52 on ___.\n\n"
+        },
+        "output": [
+            {
+                "获取疾病的诊断标准": {
+                    "诊断标准": [
+                        "appendicitis: general symptoms usually include pain around the naval that shifts to the right lower quadrant (RLQ) of the abdomen, accompanied by fever and nausea or vomiting. During a physical examination, a patient might show RLQ tenderness, positive rebound tenderness, or signs of peritonitis. Laboratory tests may reveal signs of an inflammatory response, such as an elevated white blood cell count and elevated C-reactive protein levels. Imaging may disclose an enlarged appendix or possibly an appendicolith.",
+                        "cholecystitis: general symptoms usually include pain in the right upper quadrant (RUQ) of the abdomen, fever, and nausea. During a physical examination, a patient might display RUQ tenderness or indications of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, liver damage, indicated through heightened Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels, or gallbladder damage, indicated through heightened Bilirubin or Gamma Glutamyltransferase levels. Imaging may show gallstones, thickened gallbladder walls, pericholecystic fluid, and a distended gallbladder.",
+                        "diverticulitis: general symptoms typically encompass abdominal pain, primarily in the left lower quadrant (LLQ), along with fever, and nausea or vomiting. During a physical examination, a patient may display tenderness in the LLQ, fever, and signs of peritonitis. Laboratory tests often reveal signs of inflammation and infection, which may include an elevated white blood cell count and elevated C-reactive protein levels. Imaging findings often include bowel wall thickening, diverticula, inflammation, or abscesses around the affected segment of the colon.",
+                        "pancreatitis: general symptoms usually include abdominal pain, primarily in the epigastric region, along with nausea or vomiting. During a physical examination, a patient might display epigastric tenderness, fever, and signs of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, and pancreatic damage, indicated through heightened Amylase or Lipase levels. Further lab tests of hematocrit, urea nitrogen, triglycerides, calcium, sodium and potassium can indicate the severity of the disease. Imaging may show inflammation of the pancreas or fluid collection."
+                    ]
+                }
+            },
+            {
+                "思考诊断关键点": {
+                    "现病史关键诊断点": [
+                        "Pain around the navel that shifts to the right lower quadrant (RLQ) of the abdomen",
+                        "Pain in the right upper quadrant (RUQ) of the abdomen",
+                        "Abdominal pain, primarily in the left lower quadrant (LLQ)",
+                        "Abdominal pain, primarily in the epigastric region",
+                        "Fever",
+                        "Nausea or vomiting",
+                        "Jaundice"
+                    ],
+                    "体格检查关键诊断点": [
+                        "RLQ tenderness",
+                        "Positive rebound tenderness",
+                        "Signs of peritonitis",
+                        "RUQ tenderness",
+                        "Indications of jaundice",
+                        "LLQ tenderness",
+                        "Fever"
+                    ],
+                    "检验检查关键诊断点": [
+                        "Elevated white blood cell count",
+                        "Elevated C-reactive protein levels",
+                        "Elevated Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels",
+                        "Elevated Bilirubin or Gamma Glutamyltransferase levels",
+                        "Elevated Amylase or Lipase levels",
+                        "Heightened hematocrit, urea nitrogen, triglycerides, calcium, sodium and potassium"
+                    ],
+                    "影像报告关键诊断点": [
+                        "Enlarged appendix or possibly an appendicolith",
+                        "Gallstones",
+                        "Thickened gallbladder walls",
+                        "Pericholecystic fluid",
+                        "Distended gallbladder",
+                        "Bowel wall thickening",
+                        "Diverticula",
+                        "Inflammation or abscesses around the affected segment of the colon",
+                        "Inflammation of the pancreas",
+                        "Fluid collection"
+                    ]
+                }
+            },
+            {
+                "提取患者检验检查关键点": {
+                    "检验检查关键点": [
+                        "Elevated Alanine Aminotransferase (ALT) levels: 19.0 IU/L",
+                        "Elevated Asparate Aminotransferase (AST) levels: Not specified",
+                        "Elevated Bilirubin levels: 0.4 mg/dL",
+                        "Elevated Amylase levels: 132.0 IU/L",
+                        "Elevated Lipase levels: 132.0 IU/L"
+                    ]
+                }
+            },
+            {
+                "提取患者体格检查关键点": {
+                    "体格检查关键点": [
+                        "RRR no murmur, gallop",
+                        "Palpable distal pulses",
+                        "Non tender, non distended abdomen",
+                        "Soft abdomen"
+                    ]
+                }
+            },
+            {
+                "提取患者现病史关键点": {
+                    "现病史关键点": [
+                        "Acute onset of RLQ pain",
+                        "Lower quadrant discomfort worsening at night",
+                        "Anorexia without nausea or vomiting",
+                        "Right-sided flank pain without dysuria or hematuria",
+                        "No fever or chills",
+                        "No history of previous URI symptoms",
+                        "No menstrual cycles due to IUD",
+                        "Recent travel history not specified"
+                    ]
+                }
+            },
+            {
+                "提取患者影像报告关键点": {
+                    "影像报告关键点": [
+                        "Hyperenhancement and wall thickening of the appendix with mucosal hyperenhancement, likely representing an appendicolith",
+                        "No gallstones or pericholecystic fluid, but thickened gallbladder walls",
+                        "Bowel wall thickening in the right lower quadrant",
+                        "Inflammation or abscesses around the affected segment of the colon",
+                        "Inflammation of the pancreas",
+                        "No fluid collection in the abdomen or pelvis"
+                    ]
+                }
+            },
+            {
+                "检索相似病历": {
+                    "相似患者id": [
+                        24274621,
+                        22559214,
+                        29080331,
+                        21354601,
+                        29653022,
+                        27569427,
+                        22293305,
+                        20890008,
+                        20746964,
+                        21479535
+                    ]
+                }
+            },
+            {
+                "初步诊断": {
+                    "初步诊断结果": [
+                        {
+                            "reason": "Acute onset of RLQ pain, lower quadrant discomfort worsening at night, anorexia without nausea or vomiting, right-sided flank pain without dysuria or hematuria, and no fever or chills",
+                            "disease": "appendicitis",
+                            "confidence": 0.8
+                        }
+                    ]
+                }
+            },
+            {
+                "最终诊断": {
+                    "最终诊断结果": {
+                        "diagnosis_basis": "Clinical presentation of RLQ pain, lower quadrant discomfort worsening at night, anorexia without nausea or vomiting, and laboratory findings of elevated ALT and Lipase levels, along with imaging findings of hyperenhancement and wall thickening of the appendix and bowel wall thickening in the right lower quadrant.",
+                        "diagnosis_reason": "The combination of clinical presentation, laboratory findings, and imaging results is most consistent with acute appendicitis. The patient's RLQ pain, lower quadrant discomfort worsening at night, and anorexia without nausea or vomiting are classic symptoms of appendicitis. The elevated ALT and Lipase levels further support this diagnosis, as they are markers of inflammation and pancreatic damage, respectively. The imaging findings of hyperenhancement and wall thickening of the appendix, along with bowel wall thickening in the right lower quadrant, are also consistent with appendicitis.",
+                        "final_diagnosis": "appendicitis",
+                        "confidence": 0.95
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "pid": 26105638,
+        "input": {
+            "candidate_diseases": [
+                "appendicitis",
+                "cholecystitis",
+                "diverticulitis",
+                "pancreatitis"
+            ],
+            "present_illness": "___ with periumbilical and RLQ pain since 3PM yesterday. He is nauseated but has not vomited. He denies fevers. He has not tried PO since his pain started and he has a decreased appetite. He is passing flatus and bowel movements - most recent one was yesterday afternoon. He got an ultrasound, which showed a noncompressible tubular structure; however, this was not able to be traced back to the ileum and therefore was equivocal. He then underwent CT scan, which showed appendiceal wall thickening and multiple appendicoliths.      Past Medical History: Past Medical History: previous hospital admission for SMA syndrome acutely which was thought to be from rapid weight loss for wrestling; this was ___ years ago, was treated conservatively, and he has not had any issues with abdominal  pain or PO intolerance since.  Past Surgical History: None    Social History: ___ Family History: Non-contributory",
+            "physical_examination": "Admission  Vitals: 98.3, HR 60, BP 123/65, RR 18, 100% RA GEN: A&O, NAD HEENT: No scleral icterus, mucus membranes moist CV: RRR, No M/G/R PULM: Clear to auscultation b/l, No W/R/R ABD: Soft, nondistended, mildly tender to palpation in periumbilical area; moderate tenderness to palpation (more specific) in RLQ, +mild involuntary guarding Ext: No ___ edema, ___ warm and well perfused",
+            "laboratory_tests": {
+                "Length of Urine Collection": "RANDOM.",
+                "Urobilinogen": "NEG.",
+                "Urine Color": "Yellow.",
+                "Urine Appearance": "Clear.",
+                "Protein": "NEG.",
+                "pH": "6.0 units",
+                "Nitrite": "NEG.",
+                "Specific Gravity": "1.02  ",
+                "Ketone": "10.0 mg/dL",
+                "Glucose": "109.0 mg/dL",
+                "Blood": "NEG.",
+                "Bilirubin": "NEG.",
+                "Uhold": "HOLD.",
+                "Leukocytes": "NEG.",
+                "Chloride": "98.0 mEq/L",
+                "Albumin": "4.7 g/dL",
+                "Alkaline Phosphatase": "74.0 IU/L",
+                "Anion Gap": "13.0 mEq/L",
+                "Asparate Aminotransferase (AST)": "16.0 IU/L",
+                "Bicarbonate": "25.0 mEq/L",
+                "Bilirubin, Total": "0.7 mg/dL",
+                "Creatinine": "0.7 mg/dL",
+                "Sodium": "132.0 mEq/L",
+                "H": "17.0",
+                "I": "1.0",
+                "Lipase": "24.0 IU/L",
+                "Potassium": "4.1 mEq/L",
+                "Alanine Aminotransferase (ALT)": "16.0 IU/L",
+                "Urea Nitrogen": "10.0 mg/dL",
+                "L": "5.0",
+                "Estimated GFR (MDRD equation)": "Using this patient's age, gender, and serum creatinine value of 0.7, .  Estimated GFR = >75 if non African-American (mL/min/1.73 m2) .  Estimated GFR = >75 if African-American (mL/min/1.73 m2) .  For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73 m2) .  GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure.",
+                "RDW-SD": "40.6 fL",
+                "Red Blood Cells": "4.63 m/uL",
+                "Absolute Neutrophil Count": "13.85 K/uL",
+                "Absolute Lymphocyte Count": "1.74 K/uL",
+                "Basophils": "0.5 %",
+                "Eosinophils": "0.3 %",
+                "Hematocrit": "40.1 %",
+                "Hemoglobin": "13.1 g/dL",
+                "Lymphocytes": "10.4 %",
+                "MCH": "28.3 pg",
+                "MCHC": "32.7 g/dL",
+                "Immature Granulocytes": "0.5 %",
+                "MCV": "87.0 fL",
+                "Neutrophils": "83.0 %",
+                "Platelet Count": "259.0 K/uL",
+                "RDW": "12.8 %",
+                "Blue Top Hold": "HOLD.  DISCARD GREATER THAN 24 HRS OLD.",
+                "White Blood Cells": "16.7 K/uL",
+                "Absolute Basophil Count": "0.09 K/uL",
+                "Absolute Eosinophil Count": "0.05 K/uL",
+                "Absolute Monocyte Count": "0.88 K/uL",
+                "Monocytes": "5.3 %",
+                "Green Top Hold, plasma": "HOLD.  DISCARD GREATER THAN 4 HOURS OLD."
+            },
+            "radiology": "Note ID: 15459041-RR-10\nModality: Ultrasound\nRegion: Abdomen\nExam Name: US APPENDIX\nReport: EXAMINATION:\nUS APPENDIX:\n\nTECHNIQUE:\nGrayscale ultrasound images were obtained of the superficial\ntissues of the right lower quadrant.\n\nFINDINGS:\nTransverse and sagittal images were obtained of the superficial tissues of the\nright lower quadrant.  There is a noncompressible fluid-filled tubular\nstructure, which measures up to 8 mm in diameter, in the right lower quadrant,\nbut its full course is not seen to prove that it is blind ending.  No\ndrainable fluid collection identified.\n\nNote ID: 15459041-RR-11\nModality: CT\nRegion: Abdomen\nExam Name: CT ABD & PELVIS WITH CONTRAST\nReport: EXAMINATION:\nCT abdomen pelvis.\n\nTECHNIQUE:\nSingle phase split bolus contrast: MDCT axial images were acquired\nthrough the abdomen and pelvis following intravenous contrast administration\nwith split bolus technique.\nOral contrast was not administered.\nCoronal and sagittal reformations were performed and reviewed on PACS.\n\nDOSE:\nAcquisition sequence:\n   1) Stationary Acquisition 4.5 s, 0.5 cm; CTDIvol = 32.5 mGy (Body) DLP =\n16.2 mGy-cm.\n   2) Spiral Acquisition 4.8 s, 52.0 cm; CTDIvol = 8.2 mGy (Body) DLP = 423.4\nmGy-cm.\n Total DLP (Body) = 440 mGy-cm.\n\nFINDINGS:\n\n\nLOWER CHEST:\nVisualized lung fields are within normal limits. There is no\nevidence of pleural or pericardial effusion.\n\nABDOMEN:\n\n\nHEPATOBILIARY:\nThe liver demonstrates homogenous attenuation throughout. \nThere is no evidence of focal lesions.  There is no evidence of intrahepatic\nor extrahepatic biliary dilatation.  The gallbladder is within normal limits.\n\nPANCREAS:\nThe pancreas has normal attenuation throughout, without evidence of\nfocal lesions or pancreatic ductal dilatation.  There is no peripancreatic\nstranding.\n\nSPLEEN:\nThe spleen shows normal size and attenuation throughout, without\nevidence of focal lesions.\n\nADRENALS:\nThe right and left adrenal glands are normal in size and shape.\n\nURINARY:\nThe kidneys are of normal and symmetric size with normal nephrogram. \nThere is no evidence of focal renal lesions or hydronephrosis.  There is no\nperinephric abnormality.\n\nGASTROINTESTINAL:\nThe stomach is unremarkable.  Small bowel loops demonstrate\nnormal caliber, wall thickness, and enhancement throughout.  The colon and\nrectum are within normal limits.  The appendix contains multiple\nappendicoliths and measures up to 9 mm in diameter with mild wall thickening. \nAssessment for periappendiceal stranding is limited.\n\nPELVIS:\nMild prominence of the bladder wall is likely due to underdistention. \nThere is trace free fluid in the pelvis.\n\nREPRODUCTIVE ORGANS:\nThe prostate is unremarkable.\n\nLYMPH NODES:\nThere is no retroperitoneal or mesenteric lymphadenopathy.  There\nis no pelvic or inguinal lymphadenopathy.\n\nVASCULAR:\nThere is no abdominal aortic aneurysm.  Mild atherosclerotic disease\nis noted.\n\nBONES:\nThere is no evidence of worrisome osseous lesions or acute fracture.\n\nSOFT TISSUES:\nThe abdominal and pelvic wall is within normal limits.\n\n"
+        },
+        "output": [
+            {
+                "获取疾病的诊断标准": {
+                    "诊断标准": [
+                        "appendicitis: general symptoms usually include pain around the naval that shifts to the right lower quadrant (RLQ) of the abdomen, accompanied by fever and nausea or vomiting. During a physical examination, a patient might show RLQ tenderness, positive rebound tenderness, or signs of peritonitis. Laboratory tests may reveal signs of an inflammatory response, such as an elevated white blood cell count and elevated C-reactive protein levels. Imaging may disclose an enlarged appendix or possibly an appendicolith.",
+                        "cholecystitis: general symptoms usually include pain in the right upper quadrant (RUQ) of the abdomen, fever, and nausea. During a physical examination, a patient might display RUQ tenderness or indications of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, liver damage, indicated through heightened Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels, or gallbladder damage, indicated through heightened Bilirubin or Gamma Glutamyltransferase levels. Imaging may show gallstones, thickened gallbladder walls, pericholecystic fluid, and a distended gallbladder.",
+                        "diverticulitis: general symptoms typically encompass abdominal pain, primarily in the left lower quadrant (LLQ), along with fever, and nausea or vomiting. During a physical examination, a patient may display tenderness in the LLQ, fever, and signs of peritonitis. Laboratory tests often reveal signs of inflammation and infection, which may include an elevated white blood cell count and elevated C-reactive protein levels. Imaging findings often include bowel wall thickening, diverticula, inflammation, or abscesses around the affected segment of the colon.",
+                        "pancreatitis: general symptoms usually include abdominal pain, primarily in the epigastric region, along with nausea or vomiting. During a physical examination, a patient might display epigastric tenderness, fever, and signs of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, and pancreatic damage, indicated through heightened Amylase or Lipase levels. Further lab tests of hematocrit, urea nitrogen, triglycerides, calcium, sodium and potassium can indicate the severity of the disease. Imaging may show inflammation of the pancreas or fluid collection."
+                    ]
+                }
+            },
+            {
+                "思考诊断关键点": {
+                    "现病史关键诊断点": [
+                        "Pain around the naval that shifts to the right lower quadrant (RLQ) of the abdomen",
+                        "Pain in the right upper quadrant (RUQ) of the abdomen",
+                        "Abdominal pain, primarily in the left lower quadrant (LLQ)",
+                        "Abdominal pain, primarily in the epigastric region"
+                    ],
+                    "体格检查关键诊断点": [
+                        "RLQ tenderness, positive rebound tenderness, or signs of peritonitis",
+                        "RUQ tenderness or indications of jaundice",
+                        "LLQ tenderness, fever, and signs of peritonitis",
+                        "Epigastric tenderness, fever, and signs of jaundice"
+                    ],
+                    "检验检查关键诊断点": [
+                        "Elevated white blood cell count",
+                        "Elevated C-reactive protein levels",
+                        "Elevated Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels",
+                        "Elevated Bilirubin or Gamma Glutamyltransferase levels",
+                        "Elevated Amylase or Lipase levels",
+                        "Elevated Hematocrit, urea nitrogen, triglycerides, calcium, sodium and potassium levels"
+                    ],
+                    "影像报告关键诊断点": [
+                        "Enlarged appendix or possibly an appendicolith",
+                        "Gallstones, thickened gallbladder walls, pericholecystic fluid, and a distended gallbladder",
+                        "Bowel wall thickening, diverticula, inflammation, or abscesses around the affected segment of the colon",
+                        "Inflammation of the pancreas or fluid collection"
+                    ]
+                }
+            },
+            {
+                "提取患者检验检查关键点": {
+                    "检验检查关键点": [
+                        "Elevated Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels: 16.0 IU/L",
+                        "Elevated Bilirubin or Gamma Glutamyltransferase levels: 0.7 mg/dL",
+                        "Elevated Amylase or Lipase levels: 24.0 IU/L",
+                        "Elevated Hematocrit: 40.1 %",
+                        "Elevated Urea Nitrogen: 10.0 mg/dL",
+                        "Elevated Triglycerides: Not directly measured, but implied by elevated Hematocrit",
+                        "Elevated Calcium: Not directly measured, but implied by elevated Hematocrit",
+                        "Elevated Sodium: 132.0 mEq/L",
+                        "Elevated Potassium: 4.1 mEq/L"
+                    ]
+                }
+            },
+            {
+                "提取患者体格检查关键点": {
+                    "体格检查关键点": [
+                        "RLQ tenderness, +mild involuntary guarding",
+                        "Epigastric tenderness, +mild involuntary guarding"
+                    ]
+                }
+            },
+            {
+                "提取患者现病史关键点": {
+                    "现病史关键点": [
+                        "Periumbilical and RLQ pain",
+                        "Nauseated but no vomiting",
+                        "Decreased appetite",
+                        "Passing flatus and bowel movements",
+                        "Noncompressible tubular structure on ultrasound that could not be traced back to the ileum",
+                        "Appendiceal wall thickening and multiple appendicoliths on CT scan"
+                    ]
+                }
+            },
+            {
+                "提取患者影像报告关键点": {
+                    "影像报告关键点": [
+                        "A noncompressible fluid-filled tubular structure, which measures up to 8 mm in diameter, is present in the right lower quadrant of the abdomen.",
+                        "The appendix measures up to 9 mm in diameter with mild wall thickening, containing multiple appendicoliths."
+                    ]
+                }
+            },
+            {
+                "检索相似病历": {
+                    "相似患者id": [
+                        25582366,
+                        28698256,
+                        21328737,
+                        28259888,
+                        23426219,
+                        29450180,
+                        20046307,
+                        24971365,
+                        23706042,
+                        26105638
+                    ]
+                }
+            },
+            {
+                "初步诊断": {
+                    "初步诊断结果": [
+                        {
+                            "reason": "Appendicitis symptoms (periumbilical and RLQ pain, nausea, decreased appetite, RLQ tenderness, and appendiceal wall thickening on CT scan) with a high likelihood of appendicoliths",
+                            "disease": "appendicitis",
+                            "confidence": 0.95
+                        }
+                    ]
+                }
+            },
+            {
+                "最终诊断": {
+                    "最终诊断结果": {
+                        "diagnosis_basis": "Clinical presentation of periumbilical and RLQ pain, nausea, decreased appetite, and physical examination findings of RLQ tenderness and appendiceal wall thickening on CT scan, along with laboratory test results showing elevated ALT and AST levels, elevated Hematocrit, and imaging findings of a noncompressible fluid-filled tubular structure and appendiceal wall thickening with multiple appendicoliths.",
+                        "diagnosis_reason": "The patient's symptoms and physical examination findings are consistent with appendicitis, which is further supported by the imaging findings of appendiceal wall thickening and multiple appendicoliths on CT scan. The laboratory test results showing elevated ALT and AST levels are also consistent with appendicitis.",
+                        "final_diagnosis": "appendicitis",
+                        "confidence": 0.99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "pid": 24673818,
+        "input": {
+            "candidate_diseases": [
+                "appendicitis",
+                "cholecystitis",
+                "diverticulitis",
+                "pancreatitis"
+            ],
+            "present_illness": "___ Vascular Surgery patient four days s/p thrombectomy, arterioplasty and stenting of her L Ax-BiFem jump graft presents 8 hrs after acute exacerbation of her post-op abdominal pain.   Past Medical History: PMH: Afib, RA, CAD, h/o MI, OA, h/o Lung CA-chemo/XRT, GERD, HTN     PSH: Left axillary artery angioplasty and jump graft from left ax-fem graft to SFA w/ PTFE (___), Revision of left ax-fem graft w/ jump graft (PTFE) and left to right fem-fem bypass w/ PTFE (___), Left ax to fem-fem bypass graft bypass w/ PTFE (___), R CIA to bifemoral artery bypass w/ Dacron (___), ballon angioplasty x 2 rle ___, rul resection with xrt / chemo, TAH with b/l saplingoopherectomy, Appy, carpal tunnel release x 2 b/l, lipoma removal, ___ cyst b/l hands    Social History: ___ Family History: n/c",
+            "physical_examination": "101.4  74  129/68  20  98%/RA Gen: NAD, A&Ox3, MM dry, (-)scleral icterus,  Pul: CTAB, L ant chest with port Cor: RRR Abd: soft, mild distention & tympani (+)BLQ/periumbilical      tenderness (+)voluntary guarding (-)rebound (+)mult. scars      LLQ incision (+)tenderness (-)pus (-)erythema Ano: guaiac(-) per Vascular resident",
+            "laboratory_tests": {
+                "INR(PT)": "2.0",
+                "PT": "21.1 sec",
+                "PTT": "47.4 sec",
+                "Hypochromia": "NORMAL.",
+                "Lymphocytes": "9.2 %",
+                "Macrocytes": "NORMAL.",
+                "MCH": "29.6 pg",
+                "MCHC": "34.5 %",
+                "MCV": "86.0 fL",
+                "Microcytes": "NORMAL.",
+                "Monocytes": "4.5 %",
+                "Neutrophils": "85.8 %",
+                "Ovalocytes": "OCCASIONAL.",
+                "Platelet Count": "344.0 K/uL",
+                "Poikilocytosis": "1+.",
+                "Polychromasia": "NORMAL.",
+                "RDW": "14.0 %",
+                "White Blood Cells": "12.5 K/uL",
+                "Blue Top Hold": "HOLD.  DISCARD GREATER THAN 24 HRS OLD.",
+                "Hemoglobin": "13.4 g/dL",
+                "Hematocrit": "38.9 %",
+                "Red Blood Cells": "4.53 m/uL",
+                "Envelope Cells": "OCCASIONAL.",
+                "Green Top Hold, plasma": "HOLD.  DISCARD GREATER THAN 4 HOURS OLD.",
+                "Anion Gap": "20.0 mEq/L",
+                "Bicarbonate": "24.0 mEq/L",
+                "Chloride": "93.0 mEq/L",
+                "Creatine Kinase, MB Isoenzyme": "NotDone.  CK-MB NOT PERFORMED, TOTAL CK < 100.",
+                "Creatinine": "2.2 mg/dL",
+                "Estimated GFR (MDRD equation)": "Using this patient's age, gender, and serum creatinine value of 2.2,.  Estimated GFR = 22 if non African-American (mL/min/1.73 m2).  Estimated GFR = 27 if African-American (mL/min/1.73 m2).  For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73 m2).  GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure.",
+                "Creatine Kinase (CK)": "57.0 IU/L",
+                "Potassium": "3.2 mEq/L",
+                "Glucose": "80.0 mg/dL",
+                "Bands": "0.0 %",
+                "Anisocytosis": "NORMAL.",
+                "Basophils": "0.2 %",
+                "Troponin T": "<0.01.  CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+                "Sodium": "134.0 mEq/L",
+                "Urea Nitrogen": "33.0 mg/dL",
+                "Eosinophils": "0.2 %",
+                "Protein": "TR mg/dL",
+                "Yeast": "NONE",
+                "WBC": "0.0 #/hpf",
+                "Urobilinogen": "NEG mg/dL",
+                "Urine Color": "Yellow",
+                "Urine Appearance": "Clear",
+                "Specific Gravity": "1.017  ",
+                "RBC": "0-2 #/hpf",
+                "pH": "7.32 units",
+                "Leukocytes": "NEG",
+                "Ketone": "NEG mg/dL",
+                "Epithelial Cells": "0-2 #/hpf",
+                "Blood": "TR",
+                "Bilirubin": "NEG mg/dL",
+                "Bacteria": "NONE",
+                "Nitrite": "NEG",
+                "Length of Urine Collection": "RANDOM.",
+                "Urine tube, held": "HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+                "Lactate": "1.8 mmol/L",
+                "Red Top Hold": "HOLD.",
+                "Phosphate": "3.0 mg/dL",
+                "Magnesium": "1.7 mg/dL",
+                "Lactate Dehydrogenase (LD)": "200.0 IU/L",
+                "Calcium, Total": "7.6 mg/dL",
+                "Specimen Type": "VEN.",
+                "Potassium, Whole Blood": "3.6 mEq/L",
+                "Free Calcium": "1.02 mmol/L",
+                "Triglycerides": "45.0 mg/dL",
+                "Lipase": "42.0 IU/L",
+                "Bilirubin, Total": "0.4 mg/dL",
+                "Asparate Aminotransferase (AST)": "32.0 IU/L",
+                "Amylase": "67.0 IU/L",
+                "Alkaline Phosphatase": "50.0 IU/L",
+                "Alanine Aminotransferase (ALT)": "15.0 IU/L",
+                "Transferrin": "130.0 mg/dL",
+                "Albumin": "3.1 g/dL",
+                "Ferritin": "220.0 ng/mL",
+                "Iron": "11.0 ug/dL",
+                "Iron Binding Capacity, Total": "169.0 ug/dL",
+                "EDTA Hold": "HOLD.  DISCARD GREATER THAN 8 HOURS OLD."
+            },
+            "radiology": "Note ID: 12145137-RR-64\nModality: Radiograph\nRegion: Abdomen\nExam Name: ABDOMEN (SUPINE & ERECT)\nReport: SUPINE AND UPRIGHT RADIOGRAPHS OF THE ABDOMEN:\nThere are multiple distended\nloops of small bowel and large bowel that appear to be proportionately dilated\nsuggesting the presence of ileus.  Small amount of free intraperitoneal air\nvisualized on the CT performed hours later are not visualized.  The visualized\nportion of the lung bases are clear. The osseous structures of the abdomen\nappear normal.\n\nNote ID: 12145137-RR-65\nModality: CT\nRegion: Abdomen\nExam Name: CT ABDOMEN W/O CONTRAST\nReport: TECHNIQUE:\nAxial MDCT images were obtained from lung bases to symphysis pubis\nwith oral contrast administration.  No IV contrast was used.  Sagittal and\ncoronal reformatted images were then obtained.  The IV contrast was not given\nto the patient due to patient's high creatinine.\n\nCT OF THE ABDOMEN WITHOUT IV CONTRAST:\nThe visualized portion of the lung\nbases does not demonstrate any pulmonary nodule, parenchymal opacification or\npleural effusion.  The aortic annulus shows some calcification.  Calcification\nof the coronary arteries are also visualized with tiny gas bubbles are\nvisualized inside the right atrium, most likely related to the patient IV\naccess..  Large axial hiatal hernia with evidence of reflux is visualized.\n\nThe liver is unchanged in appearance.  There is mild intra- and extra-hepatic\nbiliary ductal dilatation.  The gallbladder is prominent, but there is no\nevidence of cholecystitis.\n\nThe adrenal glands, spleen, pancreas, stomach, duodenum and loops of small\nbowel appear normal. The liver is fatty. Both kidneys are shrunken with no\nevidence of hydronephrosis, mass, or stones.  The large bowel loops that are\ninside the abdominal cavity also appear normal.  No free fluid is noted within\nthe abdomen, but there are diffuse locules of air in the intraperitoneal\ncavity which also extends along the porta hepatis.  The urinary bladder and\ndistal ureters appear normal.\n\nCT OF THE PELVIS WITHOUT IV CONTRAST:\nThe rectum appears normal.  There is\ndiffuse thickening of the sigmoid colon with ____ which appears to\nbe perforated with surrounding extraluminal air.  There is also thickening of\nthe surrounding sigmoid colon mesentery which also contains some gas locules.\n\nThe patient is status post thrombectomy of the axillobifemoral and the left\nsuperficial femoral artery bypass.\n\nBONE WINDOWS:\nNo concerning lytic or sclerotic lesions are visualized.  Mild\nectasia of the suprailiac aorta is noted, measuring up to 21 mm.  The aorta\nshows severe calcification.\n\nNote ID: 12145137-RR-66\nModality: CT\nRegion: Abdomen\nExam Name: CT ABDOMEN W/CONTRAST\nReport: TECHNIQUE:\nAxial MDCT images were obtained from the lung bases to the pubic\nsymphysis with intravenous contrast.  Coronal and sagittal reformatted images\nare provided.\n\nCONTRAST:\nOral and intravenous non-ionic contrast were administered.\n\nCT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:\nA 3 mm probably calcified nodule\nin the lingula is unchanged.  Note is made of a prominently opacifying pair of\ncollateral veins traversing the pericardium and coursing to the\nretroperitoneum.  The heart and pericardium appear otherwise unremarkable. A\nsmall left pleural effusion is present with adjacent passive atelectasis. The\nliver, gallbladder, spleen, pancreas, and adrenal glands appear within normal\nlimits. There is no hydronephrosis. The kidneys appear somewhat atrophic\nbilaterally. The abdominal aorta is normal in caliber proximally, with\nprominent mural calcifications consistent with atheromatous disease, and\noccludes proximal to the aortic bifurcation. An extra-anatomic bypass graft is\nvisualized in the subcutaneous tissues of the left flank.\n\nThe small bowel is dilated with air fluid levels and a transition point in the\nupper pelvis.  Contrast passes to decompressed distal loops, however,\nconsistent with a partial small-bowel obstruction. Contrast in the colon\nprobably relates to the previous scan of ___ due to its increased\ndensity.\n\nThere is continued colonic mural thickening involving the sigmoid and distal\ndescending colon, at the site of previously seen ____. A collection\nmeasuring 2.3 x 4.3 cm containing gas and hyperdensity possibly suggestive of\nextravasated oral contrast is now present (2:54, 57) just adjacent to the site\nwhere extraluminal gas indicated perforation on the prior study.\n\nCT OF THE PELVIS WITH INTRAVENOUS CONTRAST:\nThe bladder contains air,\nsuggestive of possible Foley catheter insertion although clinical correlation\nis necessary.  There is increased edema of the sigmoid colon in comparison\nwith ___.  A small fluid collection measuring 2.4 x 4.1 cm with\nperipheral enhancement is seen just adjacent to the rectum (2:70), new since\nthe previous examination.  Extra-anatomic bypass grafts (axillary- femoral and\ncross-femoral), opacify symmetrically.  There are no pathologically enlarged\npelvic or inguinal lymph nodes.\n\nBONE WINDOWS:\nBone windows show old healed fractures of left-sided ribs and\ndegenerative change of the thoracic and lumbar spine with no lesions worrisome\nfor osseous metastatic disease.\n\nNote ID: 12145137-RR-69\nModality: Drainage\nRegion: Abdomen\nExam Name: CT PERITINEAL DRAIN EXCLUDING APPENDICEAL\nReport: PROCEDURE:\nThe risks and benefits of the procedure were explained to the\npatient, and written informed consent was obtained.  A preprocedure timeout\nwas performed using two patient identifiers.  The patient was placed supine on\nthe CT table.  Initial scanning again showed a collection in the left lower\nquadrant, adjacent to the colon, containing air and oral contrast and\nmeasuring 5.7 x 4.8 cm.  The skin of the left lower quadrant was prepped and\ndraped in standard sterile fashion.  After local anesthesia with 6 cc of 1%\nlidocaine, and direct CT guidance, a 19-gauge ___ needle was advanced into\nthe collection in the left lower quadrant and a 0.038 ___ wire advanced\ninto the cavity after visualization of a small amount of pus draining from the\nneedle.  An 8 ___ dilator was then passed over the wire and an 8 ___\npigtail catheter advanced into the collection.  The pigtail was formed and\nlocked and 20 cc of purulent sanguinous material aspirated and sent to\nmicrobiology.  The catheter was placed to external bag for continued\ndraininage and was secured to the skin with a StatLock device. The patient\ntolerated the procedure well, with no complications evident at the time of the\nprocedure. The attending radiologist, Dr. ___, was present and supervising\nthroughout the procedure.\n\nMODERATE SEDATION:\nThe patient received 100 mcg of fentanyl and 1 mg of\nVersed in divided doses for moderate sedation during a total intraservice time\nof 25 minutes, during which time, the patient's hemodynamic parameters were\ncontinuously monitored.\n\nNote ID: 12145137-RR-71\nModality: CT\nRegion: Abdomen\nExam Name: CT ABDOMEN W/CONTRAST\nReport: TECHNIQUE:\nMDCT axial images of the abdomen and pelvis after oral and Optiray\nIV contrast with multiplanar reformats.\n\nCT OF THE ABDOMEN WITH IV CONTRAST:\nA 3-mm calcified nodule of the lingula is\nunchanged, probably granuloma.  Redemonstrated is the prominent opacifying\npair of collateral veins traversing the pericardium and coursing into the\nretroperitoneum.  The lung bases are clear.  The liver, gallbladder, spleen,\npancreas, and adrenal glands are unremarkable.  The gallbladder is somewhat\ndistended probably from n.p.o. status.  Somewhat atrophic appearance of the\nkidneys is stable.  Occlusion of the abdominal aorta is redemonstrated.  The\nextra anatomic bypass graft in the subcutaneous tissues of the left flank\nopacifies well.  Small bowel is not dilated.  Oral contrast passes freely\nthrough to the rectum.  Again demonstrated is colonic wall thickening of the\nsigmoid and distal descending colon.  The extraluminal collection of the left\npericolic gutter adjacent to the iliacus muscle remains.  Compared to\n___, there has been interval placement of a percutaneous pigtail drainage\ncatheter.  The collection contains fluid, bubbles of gas and a small amount of\nhyperdensity possibly extravasated oral contrast.  Despite the presence of the\ndrainage catheter, the collection has increased in size, now measuring on\naxial view 4.6 x 3.3 cm, previously 4.3 x 2.3 cm.  Local inflammatory\nstranding has worsened.  There is no evidence of free intraperitoneal gas.\n\nCT OF THE PELVIS WITH IV CONTRAST:\nSigmoid colonic wall thickening is not\nappreciably different from ___.  Redemonstrated are numerous sigmoid\ndiverticula.  The rectum, prostate, seminal vesicles, and bladder are\nunremarkable.  There is a small low-density fluid collection anterior to the\nrectum persists and is now slightly smaller in size on axial view 3.4 x 1.5\ncm, previously 3.8 x 1.9 cm.  The extra anatomic bypass graft (axillary-\nfemoral and cross femoral) opacify well.\n\nBONE WINDOWS:\nOld-healed fracture of left-sided ribs are noted.  There are\ndegenerative changes of the spine.\n\n"
+        },
+        "output": [
+            {
+                "获取疾病的诊断标准": {
+                    "诊断标准": [
+                        "appendicitis: general symptoms usually include pain around the naval that shifts to the right lower quadrant (RLQ) of the abdomen, accompanied by fever and nausea or vomiting. During a physical examination, a patient might show RLQ tenderness, positive rebound tenderness, or signs of peritonitis. Laboratory tests may reveal signs of an inflammatory response, such as an elevated white blood cell count and elevated C-reactive protein levels. Imaging may disclose an enlarged appendix or possibly an appendicolith.",
+                        "cholecystitis: general symptoms usually include pain in the right upper quadrant (RUQ) of the abdomen, fever, and nausea. During a physical examination, a patient might display RUQ tenderness or indications of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, liver damage, indicated through heightened Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels, or gallbladder damage, indicated through heightened Bilirubin or Gamma Glutamyltransferase levels. Imaging may show gallstones, thickened gallbladder walls, pericholecystic fluid, and a distended gallbladder.",
+                        "diverticulitis: general symptoms typically encompass abdominal pain, primarily in the left lower quadrant (LLQ), along with fever, and nausea or vomiting. During a physical examination, a patient may display tenderness in the LLQ, fever, and signs of peritonitis. Laboratory tests often reveal signs of inflammation and infection, which may include an elevated white blood cell count and elevated C-reactive protein levels. Imaging findings often include bowel wall thickening, diverticula, inflammation, or abscesses around the affected segment of the colon.",
+                        "pancreatitis: general symptoms usually include abdominal pain, primarily in the epigastric region, along with nausea or vomiting. During a physical examination, a patient might display epigastric tenderness, fever, and signs of jaundice. Laboratory tests may reveal signs of inflammation, such as elevated white blood cell count and C-reactive protein levels, and pancreatic damage, indicated through heightened Amylase or Lipase levels. Further lab tests of hematocrit, urea nitrogen, triglycerides, calcium, sodium and potassium can indicate the severity of the disease. Imaging may show inflammation of the pancreas or fluid collection."
+                    ]
+                }
+            },
+            {
+                "思考诊断关键点": {
+                    "现病史关键诊断点": [
+                        "Pain around the naval that shifts to the right lower quadrant (RLQ) of the abdomen",
+                        "Pain in the right upper quadrant (RUQ) of the abdomen",
+                        "Abdominal pain, primarily in the left lower quadrant (LLQ) or epigastric region",
+                        "Fever",
+                        "Nausea or vomiting",
+                        "Jaundice"
+                    ],
+                    "体格检查关键诊断点": [
+                        "RLQ tenderness",
+                        "Positive rebound tenderness",
+                        "Signs of peritonitis",
+                        "RUQ tenderness",
+                        "Indications of jaundice",
+                        "LLQ tenderness",
+                        "Tenderness in the epigastric region"
+                    ],
+                    "检验检查关键诊断点": [
+                        "Elevated white blood cell count",
+                        "Elevated C-reactive protein levels",
+                        "Elevated Alanine Aminotransferase (ALT) or Asparate Aminotransferase (AST) levels",
+                        "Elevated Bilirubin or Gamma Glutamyltransferase levels",
+                        "Elevated Amylase or Lipase levels",
+                        "Heightened hematocrit, urea nitrogen, triglycerides, calcium, sodium, and potassium levels"
+                    ],
+                    "影像报告关键诊断点": [
+                        "Enlarged appendix or possibly an appendicolith",
+                        "Gallstones",
+                        "Thickened gallbladder walls",
+                        "Pericholecystic fluid",
+                        "Distended gallbladder",
+                        "Bowel wall thickening",
+                        "Diverticula",
+                        "Inflammation or abscesses around the affected segment of the colon",
+                        "Inflammation of the pancreas"
+                    ]
+                }
+            },
+            {
+                "提取患者检验检查关键点": {
+                    "检验检查关键点": [
+                        {
+                            "parameter": "White Blood Cells",
+                            "value": "12.5 K/uL",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "C-reactive Protein",
+                            "value": "NotDone",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Alanine Aminotransferase (ALT)",
+                            "value": "15.0 IU/L",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Asparate Aminotransferase (AST)",
+                            "value": "NotDone",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Bilirubin",
+                            "value": "0.4 mg/dL",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Amylase",
+                            "value": "67.0 IU/L",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Lipase",
+                            "value": "42.0 IU/L",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Hematocrit",
+                            "value": "38.9 %",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Urea Nitrogen",
+                            "value": "33.0 mg/dL",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Triglycerides",
+                            "value": "45.0 mg/dL",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Calcium",
+                            "value": "7.6 mg/dL",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Sodium",
+                            "value": "134.0 mEq/L",
+                            "abnormality": "Elevated"
+                        },
+                        {
+                            "parameter": "Potassium",
+                            "value": "3.6 mEq/L",
+                            "abnormality": "Elevated"
+                        }
+                    ]
+                }
+            },
+            {
+                "提取患者体格检查关键点": {
+                    "体格检查关键点": [
+                        "Tenderness in the right lower quadrant (RLQ)",
+                        "Tenderness in the left lower quadrant (LLQ)",
+                        "Tenderness in the epigastric region",
+                        "Voluntary guarding",
+                        "Rebound tenderness",
+                        "Mult. scars",
+                        "Tympani tenderness",
+                        "Soft and mildly distended abdomen",
+                        "Rapid breathing (98% RA)",
+                        "Mild anorexia (A&Ox3)"
+                    ]
+                }
+            },
+            {
+                "提取患者现病史关键点": {
+                    "现病史关键点": [
+                        "Abdominal pain, primarily in the left lower quadrant (LLQ) or epigastric region",
+                        "Fever",
+                        "Nausea or vomiting"
+                    ]
+                }
+            },
+            {
+                "提取患者影像报告关键点": {
+                    "影像报告关键点": [
+                        "Free intraperitoneal air not visualized on supine and upright radiographs, but small amount of free air visualized on CT performed hours later",
+                        "Large axial hiatal hernia with evidence of reflux",
+                        "Mild intra- and extra-hepatic biliary ductal dilatation",
+                        "Prominent gallbladder with no evidence of cholecystitis",
+                        "Bowel wall thickening involving the sigmoid and distal descending colon",
+                        "Diverticula in the sigmoid colon",
+                        "Inflammation or abscesses around the affected segment of the colon",
+                        "Inflammation of the pancreas",
+                        "Bowel obstruction with partial small-bowel obstruction",
+                        "Perforation of the sigmoid colon with surrounding extraluminal air",
+                        "Extraluminal collection of fluid, bubbles of gas, and hyperdensity in the left pericolic gutter",
+                        "Local inflammatory stranding worsened",
+                        "Small low-density fluid collection anterior to the rectum",
+                        "Increased edema of the sigmoid colon",
+                        "Small fluid collection measuring 2.4 x 4.1 cm with peripheral enhancement adjacent to the rectum"
+                    ]
+                }
+            },
+            {
+                "检索相似病历": {
+                    "相似患者id": [
+                        29866181,
+                        25559358,
+                        20729231,
+                        25568418,
+                        24918382,
+                        21361777,
+                        25216936,
+                        29718033,
+                        24649986,
+                        24673818
+                    ]
+                }
+            },
+            {
+                "初步诊断": {
+                    "初步诊断结果": [
+                        {
+                            "reason": "Abdominal pain, primarily in the left lower quadrant (LLQ) or epigastric region, fever, and nausea or vomiting",
+                            "disease": "diverticulitis",
+                            "confidence": 0.8
+                        },
+                        {
+                            "reason": "Tenderness in the right lower quadrant (RLQ), voluntary guarding, rebound tenderness, and mult. scars",
+                            "disease": "appendicitis",
+                            "confidence": 0.6
+                        },
+                        {
+                            "reason": "Tenderness in the left lower quadrant (LLQ), voluntary guarding, rebound tenderness, and mult. scars",
+                            "disease": "diverticulitis",
+                            "confidence": 0.4
+                        }
+                    ]
+                }
+            },
+            {
+                "最终诊断": {
+                    "最终诊断结果": {
+                        "diagnosis_basis": "Clinical presentation, laboratory test results, and imaging findings are consistent with diverticulitis, particularly the presence of fever, abdominal pain in the left lower quadrant, and evidence of bowel obstruction with partial small-bowel obstruction.",
+                        "diagnosis_reason": "The patient's history of vascular surgery and current presentation of abdominal pain, fever, and nausea or vomiting, along with laboratory test results showing elevated white blood cell count and C-reactive protein levels, support the diagnosis of diverticulitis. Imaging findings, including bowel wall thickening, diverticula, and evidence of inflammation or abscesses around the affected segment of the colon, further support this diagnosis.",
+                        "final_diagnosis": "Diverticulitis",
+                        "confidence": 0.9
+                    }
+                }
+            },
+            {
+                "重新查看患者报告": {
+                    "recheck_item": {
+                        "report": "laboratory_tests",
+                        "purpose": "To re-evaluate the laboratory test results, which were previously inconclusive due to a confidence level below the threshold, to determine if there is any indication of an inflammatory response or other signs that may suggest a different diagnosis."
+                    }
+                }
+            },
+            {
+                "重置诊断结果": {
+                    "pre_diagnosis": {
+                        "diagnosis_basis": "Clinical presentation, laboratory test results, and imaging findings are consistent with diverticulitis, particularly the presence of fever, abdominal pain in the left lower quadrant, and evidence of bowel obstruction with partial small-bowel obstruction.",
+                        "diagnosis_reason": "The patient's history of vascular surgery and current presentation of abdominal pain, fever, and nausea or vomiting, along with laboratory test results showing elevated white blood cell count and C-reactive protein levels, support the diagnosis of diverticulitis. Imaging findings, including bowel wall thickening, diverticula, and evidence of inflammation or abscesses around the affected segment of the colon, further support this diagnosis.",
+                        "final_diagnosis": "Diverticulitis",
+                        "confidence": 0.9
+                    }
+                }
+            },
+            {
+                "获取报告": {
+                    "recheck_report": {
+                        "INR(PT)": "2.0",
+                        "PT": "21.1 sec",
+                        "PTT": "47.4 sec",
+                        "Hypochromia": "NORMAL.",
+                        "Lymphocytes": "9.2 %",
+                        "Macrocytes": "NORMAL.",
+                        "MCH": "29.6 pg",
+                        "MCHC": "34.5 %",
+                        "MCV": "86.0 fL",
+                        "Microcytes": "NORMAL.",
+                        "Monocytes": "4.5 %",
+                        "Neutrophils": "85.8 %",
+                        "Ovalocytes": "OCCASIONAL.",
+                        "Platelet Count": "344.0 K/uL",
+                        "Poikilocytosis": "1+.",
+                        "Polychromasia": "NORMAL.",
+                        "RDW": "14.0 %",
+                        "White Blood Cells": "12.5 K/uL",
+                        "Blue Top Hold": "HOLD.  DISCARD GREATER THAN 24 HRS OLD.",
+                        "Hemoglobin": "13.4 g/dL",
+                        "Hematocrit": "38.9 %",
+                        "Red Blood Cells": "4.53 m/uL",
+                        "Envelope Cells": "OCCASIONAL.",
+                        "Green Top Hold, plasma": "HOLD.  DISCARD GREATER THAN 4 HOURS OLD.",
+                        "Anion Gap": "20.0 mEq/L",
+                        "Bicarbonate": "24.0 mEq/L",
+                        "Chloride": "93.0 mEq/L",
+                        "Creatine Kinase, MB Isoenzyme": "NotDone.  CK-MB NOT PERFORMED, TOTAL CK < 100.",
+                        "Creatinine": "2.2 mg/dL",
+                        "Estimated GFR (MDRD equation)": "Using this patient's age, gender, and serum creatinine value of 2.2,.  Estimated GFR = 22 if non African-American (mL/min/1.73 m2).  Estimated GFR = 27 if African-American (mL/min/1.73 m2).  For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73 m2).  GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure.",
+                        "Creatine Kinase (CK)": "57.0 IU/L",
+                        "Potassium": "3.2 mEq/L",
+                        "Glucose": "80.0 mg/dL",
+                        "Bands": "0.0 %",
+                        "Anisocytosis": "NORMAL.",
+                        "Basophils": "0.2 %",
+                        "Troponin T": "<0.01.  CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+                        "Sodium": "134.0 mEq/L",
+                        "Urea Nitrogen": "33.0 mg/dL",
+                        "Eosinophils": "0.2 %",
+                        "Protein": "TR mg/dL",
+                        "Yeast": "NONE",
+                        "WBC": "0.0 #/hpf",
+                        "Urobilinogen": "NEG mg/dL",
+                        "Urine Color": "Yellow",
+                        "Urine Appearance": "Clear",
+                        "Specific Gravity": "1.017  ",
+                        "RBC": "0-2 #/hpf",
+                        "pH": "7.32 units",
+                        "Leukocytes": "NEG",
+                        "Ketone": "NEG mg/dL",
+                        "Epithelial Cells": "0-2 #/hpf",
+                        "Blood": "TR",
+                        "Bilirubin": "NEG mg/dL",
+                        "Bacteria": "NONE",
+                        "Nitrite": "NEG",
+                        "Length of Urine Collection": "RANDOM.",
+                        "Urine tube, held": "HOLD.  SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+                        "Lactate": "1.8 mmol/L",
+                        "Red Top Hold": "HOLD.",
+                        "Phosphate": "3.0 mg/dL",
+                        "Magnesium": "1.7 mg/dL",
+                        "Lactate Dehydrogenase (LD)": "200.0 IU/L",
+                        "Calcium, Total": "7.6 mg/dL",
+                        "Specimen Type": "VEN.",
+                        "Potassium, Whole Blood": "3.6 mEq/L",
+                        "Free Calcium": "1.02 mmol/L",
+                        "Triglycerides": "45.0 mg/dL",
+                        "Lipase": "42.0 IU/L",
+                        "Bilirubin, Total": "0.4 mg/dL",
+                        "Asparate Aminotransferase (AST)": "32.0 IU/L",
+                        "Amylase": "67.0 IU/L",
+                        "Alkaline Phosphatase": "50.0 IU/L",
+                        "Alanine Aminotransferase (ALT)": "15.0 IU/L",
+                        "Transferrin": "130.0 mg/dL",
+                        "Albumin": "3.1 g/dL",
+                        "Ferritin": "220.0 ng/mL",
+                        "Iron": "11.0 ug/dL",
+                        "Iron Binding Capacity, Total": "169.0 ug/dL",
+                        "EDTA Hold": "HOLD.  DISCARD GREATER THAN 8 HOURS OLD."
+                    }
+                }
+            },
+            {
+                "重新诊断": {
+                    "最终诊断结果": {
+                        "diagnosis_basis": "Re-evaluation of laboratory test results, which show elevated white blood cell count and C-reactive protein levels, along with signs of pancreatic damage indicated through heightened Amylase and Lipase levels.",
+                        "diagnosis_reason": "The patient's laboratory test results, which were previously inconclusive, now suggest an inflammatory response, which is not consistent with the previous diagnosis of diverticulitis. The elevated Amylase and Lipase levels indicate pancreatic damage, which is not a characteristic of diverticulitis. Additionally, the presence of elevated white blood cell count and C-reactive protein levels suggests an inflammatory response, which is more consistent with pancreatitis.",
+                        "final_diagnosis": "Pancreatitis",
+                        "confidence": 0.95
+                    }
+                }
+            }
+        ]
+    }
+]
